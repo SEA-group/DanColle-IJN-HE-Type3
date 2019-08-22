@@ -1,4 +1,4 @@
-﻿# IJN HE Type3 / 三式弹
+﻿# [HE only] IJN HE Type3 / 三式弹
 
 ======================Presented by SEA group======================
 
